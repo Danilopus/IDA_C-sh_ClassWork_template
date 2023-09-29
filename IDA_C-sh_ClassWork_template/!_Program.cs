@@ -22,6 +22,7 @@ namespace IDA_C_sh_ClassWork
 
 
             // Console.ReadKey();
+
         }
 
         public static void Task_1() { }
